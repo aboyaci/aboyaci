@@ -10,6 +10,14 @@ Before ORNL I spent eight years as computer engineering faculty at İstanbul Tic
 - **Wireless, IoT & security**: V2X, visible light communication, spectrum sensing, password policy
 - **Infrastructure**: self-hosted home lab, on-prem LLM serving
 
+**Research code & data**
+
+| Repo | Paper |
+|---|---|
+| [`AuthInfo-Dataset`](https://github.com/aboyaci/AuthInfo-Dataset) | 10M+ breached username–password pairs with structural features. *A novel password policy…*, Computers & Security, 2022 (with E. Y. Güven, M. A. Aydın) |
+
+Full publication list on [Google Scholar](https://scholar.google.com/citations?user=rDxnIUYAAAAJ).
+
 **Teaching**
 
 Current at UTK: *DATA 101: Data Knowledge and Discovery* and *AI 595: AI Apps for Drone Operations*.
